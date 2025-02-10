@@ -35,7 +35,14 @@ class PhilosophyGenerator:
                 file.write(content)
         except Exception as e:
             print(f"Error writing to file: {e}")
-
+    
+    def write_file_a(self, filename, content, mode='a'):
+        """Write content to a file."""
+        try:
+            with open(filename, mode) as file:
+                file.write(content)
+        except Exception as e:
+            print(f"Error writing to file: {e}")
     def process_word_category(self, sentence, category_file):
         """Process words based on their category (noun, verb, adj)."""
         if not sentence:
@@ -136,7 +143,7 @@ class PhilosophyGenerator:
                         self.output += ".\n"
                         output_words = self.output.split()
                         str_list = "\n".join(output_words)
-                        self.write_file('function.txt', str_list)
+                        self.write_file_a('function.txt', str_list)
 
                 #time.sleep(0.1)  # Small delay to prevent CPU overuse
 
