@@ -28,7 +28,7 @@ class PhilosophyGenerator:
             print(f"Error: File {filename} not found")
             return ""
 
-    def write_file(self, filename, content, mode='a'):
+    def write_file(self, filename, content, mode='w'):
         """Write content to a file."""
         try:
             with open(filename, mode) as file:
@@ -138,7 +138,7 @@ class PhilosophyGenerator:
                         str_list = "\n".join(output_words)
                         self.write_file('function.txt', str_list)
 
-                time.sleep(0.1)  # Small delay to prevent CPU overuse
+                #time.sleep(0.1)  # Small delay to prevent CPU overuse
 
         except KeyboardInterrupt:
             print("\nStopping text generation...")
