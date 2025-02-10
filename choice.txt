@@ -1,0 +1,605 @@
+The Act of Choice
+RICHARD HOLTON
+
+Nietzsche complained that the idea of the will pulls together too much; that ‘it is a unit
+only as a word’.1 This is perhaps to go too far, but in spirit I am inclined to agree. The
+idea of free will embraces a number of disparate, though related, concerns, and hence poses
+a number of disparate, though related, problems. This is part of the reason that the topic
+has seemed so intractable; no one solution will answer everything, and each will involve the
+others. One central concern has to do with moral responsibility, upon which the majority
+of recent work has been done. Another has to do with agency. A third has to do with
+autonomy. A fourth, and the least discussed of all, has to do with choice. That is my topic
+here.
+
+THE EXPERIENCE OF FREE WILL
+
+Doubtless the most quoted sentence in the English free will literature comes from Samuel
+Johnson: “Sir we know our will is free, and there’s an end on’t”.2 Later in Boswell’s Life the
+point is developed in what we now think of as a distinctively Moorean way: “You are surer
+that you can lift up your finger or not as you please than you are of any conclusion from a
+deduction of reasoning”.3 Our knowledge of our own free will is more certain than any
+thesis of philosophy; so if it comes to a clash between the two, it is philosophy that should
+give way.
+Despite the frequency with which Johnson’s passage is quoted, I think that its true
+importance has been missed. For what is it of which we are so certain? I take it that the
+certainty of which Johnson speaks comes from an experience of free will. He says as much:
+“All theory is against the freedom of the will; all experience for it”.4 So what is the nature
+of the experience?
+Once we start to contemplate the experience of free will, much of the literature on it
+seems beside the point. Libertarians insist that a truly free will is one that is fundamentally
+uncaused; it is the true originator of action. But this is not to describe an experience; it is
+hard to think what an experience of that would feel like. The libertarian thesis is itself a bit
+1
+
+Beyond Good and Evil §19
+J Boswell, The Life of Samuel Johnson, AD 1769 Ætat. 60 (Everyman Edition p. 366). Compare Locke’s
+comment that “I cannot have a clearer perception of any thing than that I am free”, letter to
+Molyneux, 20 Jan. 1693 in The Correspondence of John Locke Vol. IV (Oxford: Clarendon Press, 1979)
+p. 625.
+3
+AD 1778 Ætat. 69 (Everyman Edition p. 833).
+4
+Ibid.
+2
+
+of speculative philosophy, rather than the fundamental knowledge to Johnson thinks
+speculative philosophy should defer.
+The complaint here has been made before: Anthony Collins objects to those who
+appeal to vulgar experience to support libertarian views, ‘yet, inconsistently therewith,
+contradict the vulgar experience, by owning it to be an intricate matter, and treating it after an
+intricate matter’.5 By ‘intricate’ I take it that Collins doesn’t mean simply complicated;
+there is nothing to stop us having complicated experiences. The real objection is to an
+account that invests vulgar experience with philosophical properties that are not the kind
+of thing that are, or perhaps even could be, experienced.
+Johnson is right to insist that we have an experience of freedom; and surely right to
+insist that we would need very good grounds before rejecting it as illusory. I suspect
+though that here too the term covers more than one thing. There is an experience of
+agency; and there is an experience of choice. To see the difference, consider a case of
+anarchic hand syndrome. The unfortunate sufferer finds that one of their hands seems to
+take on a life of its own: unbuttoning shirts that they have just done up, taking food from
+others’ plates, and so on.6 Clearly this is a case in which the sufferer loses the experience of
+agency over the hand.7 But now consider their other, normally functioning, hand. Does the
+subject choose what to do with it? Sometimes they might: we could, for instance, ask them
+to choose whether to put their hand on their left knee or their right. But typically the
+functioning hand just does its job without any choice being made. Insofar as the subject
+makes choices these are at quite a different level: to go to the beach, to pick that rose, to
+join the Foreign Legion. In executing each choice the functioning hand does its part, but it
+would be unusual for the subject to choose what it does. Yet the subject retains agency
+over it.
+The point is quite general. There will be periods for any agent when they make no
+choices at all. Walking home, enjoying the spring weather and watching the people it
+brings out, I might have no need to make a choice. Yet I have the experience of acting; I
+am not being borne along on anarchic legs. Even when I do make a choice—to cross the
+road now, whilst there is no traffic, or to stay on this side where the trees smell better—
+this does not increase my sense of agency.
+So the experience of agency is not the same as the experience of choice. What then is
+the experience of choice? Choice comes when the question of what to do arises. Often in our
+day-to-day activities that question never arises at all. ‘Operations of thought’, wrote
+Whitehead, ‘are like cavalry charges in a battle—they are strictly limited in number, they
+5
+
+An Inquiry Concerning Human Liberty (Second Edition 1717) p. 30.
+S. Della Sala et al., ‘Right-sided anarchic (alien) hand: a longitudinal study’ Neuropsychologia 29
+(1991) 1113–27.
+7
+Though this might be coupled with the knowledge that in some sense the actions are their own:
+‘Of course I know that I am doing it’ says a patient of Marcel’s; ‘It just doesn’t feel like me’. A
+Marcel, ‘The Sense of Agency’ in J Roessler and N. Eilan (eds.) Agency and Self-Awareness (Oxford:
+Oxford University Press, 2003) 48–93, at p. 79. Note too that anarchic hand syndrome does not
+undermine ownership; those who suffer from it still think of the hand as theirs, unlike those
+suffering from alien hand syndrome. Ibid pp. 76–77.
+6
+
+—2—
+
+require fresh horses, and must only be made at decisive moments.’8 The point applies, a
+fortiori, to choice. Provided that we are experienced, the question of what to do need not
+arise even in difficult or challenging situations. Gary Klein, in his study of fire commanders
+writes:
+We asked people to tell us about their hardest case, thinking that these would show the
+most decision making. But where were the decisions? The commander sees a vertical fire
+and knows just what to do … He never seems to decide anything. He is not comparing a
+favorite option to another option, as the two-option hypothesis suggests. He is not
+comparing anything.9
+
+Experienced actors can frequently just know what to do. They use a number of methods to
+arrive at this knowledge, but Klein suggests that the main one is via a form of stereotyping:
+new situations are recognized as similar to situations that have been encountered before,
+and so the likely outcome is known.
+When the question of what to do does arise, this can be for various reasons. The
+situation may be in some way novel, or especially significant; or we may simply have been
+prompted to think about it. This distinction between the acts that we choose to perform,
+and those that we perform without choice, suggests some kind of two level system. One is
+the level of automatic heuristic-based responses. These are fast, cognitively economical,
+typically very limited in scope. We pick up on a certain cue and respond to it. The second
+level involves conscious consideration and choice: it is slow, demanding, but more flexible.
+Though the details are contentious, such an approach has become increasingly influential
+in psychology, and I do indeed presuppose it here.10 But I shall not do anything to defend
+or elucidate it; things have reached the point where the main questions can only be
+answered by empirical psychology.
+In contrast there is much philosophical work to be done in elucidating the notion of
+choice. I suggest three central features. First, choice is an act.11 It requires time,
+concentration, a certain amount of effort—which explains how we can resent having to
+make a choice.12 We can choose (a higher order choice) whether to choose, and when. We
+can put off a choice, perhaps to gain more information, or perhaps just because we are
+
+8
+
+Whitehead, An Introduction to Mathematics, (New York: Holt, 1911), quoted in J. Bargh and T.
+Chartrand, ‘The Unbearable Automaticity of Being’, American Psychologist 54 (1999) 462–79.
+9
+G. Klein, Sources of Power (Cambridge: MIT Press, 1998), p. 16
+10
+For a good overview see K. Stanovich, The Robot’s Rebellion (Chicago: University of Chicago Press,
+2004) Ch. 2.
+11
+This feature of choice has been well emphasized by Thomas Pink in The Psychology of Freedom
+(Cambridge: Cambridge University Press, 1996). In subsequent work though he has taken this to
+militate in favour of libertarianism; not the conclusion I want to draw. See Free Will (Oxford:
+Oxford University Press, 2004) Ch. 7.
+12
+For a nice discussion of the costs of excessive choice see B. Schwartz, The Paradox of Choice (New
+York: HarperCollins, 2004)
+—3—
+
+reluctant to make it. Or we can bring it forward, convinced that we already know enough,
+keen to make it, or keen to get it over with.13
+Second, choice is not determined by our prior beliefs and desires. It is quite
+compatible with a given set of beliefs and desires we choose one way or we choose another.
+That, of course, is part of what makes choice an action: we are not pushed along by our
+beliefs and desires.
+Third, choice has effects. Once the question of what to do arises, choice is typically
+necessary for action. In order to move to action, we need to make a choice about what to do.
+The other psychological states that we might have, in particular, our beliefs and desires, are
+not, on their own, enough. Just as they do not determine our choices, they do not
+determine our actins either. In contrast, choice typically is enough. Once the question of
+what to do has arisen, choice is not just necessary but sufficient for action: it gives rise to an
+intention, and the intention leads to the action.
+It is our ordinary experience that provides us with evidence of these effects. It is
+merely evidence, defeasible in many ways that we shall examine shortly. But in this it is
+parallel to so many other mundane cases. We have matches, kindling, plenty of oxygen. Is
+this enough to give us a fire? No. One of the matches needs to be struck. Our evidence
+for this is simple: typically we don’t get a fire without striking a match, and we do get a
+fire if we do. Likewise for choice. Once the question of what to do has arisen, if we don’t
+choose we don’t move; once we do choose we do.
+I say that these effects are typical, not that they always obtain. In some cases, even
+when the question of what to do has arisen, an act of choice will not be necessary.
+Habitual actions will take over. Equally an act of choice will sometimes not be sufficient.
+Habitual tendencies can override an intention arrived at by deliberate choice; or the
+intention might be forgotten; or one might change one’s mind. Such considerations need
+not worry us any more than the observation that fires can started by lighting hitting a
+match that no one has struck, or that matches can be damp, or can blow out after they are
+struck.14
+Can we say more about what choice is? I doubt that we can say much more at the level
+of conceptual analysis—or conceptual elucidation, as we might better put it. But we can say a
+great deal more about how choice fits in with our ideas of freedom. I do not want to say
+that choice is a necessary condition for free action. Most habitual actions, actions which
+are not chosen, are nonetheless free. Indeed, I think that, as with most philosophically
+interesting concepts, attempts to give necessary and sufficient conditions for free will are
+13
+
+Note that there is no regress here. I am not saying that choice is an act, and that every act
+requires a prior choice. I am only saying that (normally) a choice is required for every act for which
+the question of what to do arises. We do not normally choose whether to choose. We virtually
+never choose whether to choose whether to choose.
+14
+Some sceptics go further, arguing that choice is never necessary or sufficient for action. Daniel
+Wegner, for instance, argues, in The Illusion of Conscious Will (Cambridge: Harvard University Press.
+2002) that choice is epiphenomenal . It seems to me that the burden of proof is very much against
+such a position: one would need very good argument to deny the efficacy of choice. I sketch what
+I take to be wrong with Wegner’s argument in a review of his book in Mind, 113 (2004) 218–21.
+—4—
+
+bound to be flawed. Compatibilists—those who argue that free will is compatible with
+determinism—made a grave error when they took on the task of giving an analysis, since
+the concept answers to too many different concerns.15 Nonetheless there are characteristic
+features of free will, and an account that leaves any of them out will be inadequate. Choice
+is such a feature. Ask students to imagine a time when they have exercised their free will,
+and they will almost always imagine a case in which they made a choice. Yet, as I shall
+argue shortly, the standard compatibilist accounts of free will give no space for choice. To
+that extent then the standard accounts are inadequate. Moreover, their inadequacy in this
+dimension gives one explanation of why incompatibilism can look so attractive. If I am
+right that choice is not determined by one’s prior beliefs and desires, then there is an
+important sense in which, phenomenologically, it is not determined. It is very easy to move
+from this to the idea that one’s choices are not determined at all; and hence to the idea that,
+if one’s phenomenology is accurate, determinism is wrong. But that move is mistaken. Even
+if one’s choices are not determined by one’s beliefs and desires, it does not follow that they
+are not determined at all. Which takes us back to our earlier point: our experiences might
+reveal something about our psychology, but they will not reveal the ultimate causal
+structure of the world.
+The difficulty, if one accepts that choice is not determined by belief and desire, is to
+say why it is not just arbitrary: why choosing does not amount to mere picking. 16 But that
+is to get ahead of ourselves. Let us start with seeing how the standard compatibilist
+accounts have no place for choice
+COMPATIBILISM AND CHOICE
+
+It is sometimes said that compatibilism leaves the agent out of the picture; where the agent
+should be we get a passive vessel. This is what drives some to libertarianism. I will not be
+driven so far, but I think that there is something in the charge. The problem is clearest
+with desire-based accounts, those stemming from Hobbes, who, very roughly, took
+freedom to consist in the ability to get what one desires. His model of choice is that of the
+scales:
+The objects, means, &c are the weights, the man is the scale, the understanding of a
+convenience or inconvenience is the pressure of those weights, which incline him now one
+way, now another; and that inclination is the will.17
+
+Here we can see clearly the sense in which the decision making process is passive: there is
+nothing more to the process of decision than letting the weight of one’s desires for the
+various options press upon one. Indeed it is tempting to think that the decision machinery
+15
+
+On this see W. Lycan, ‘Free Will and the Burden of Proof’, in Anthony O’Hear (ed.) Minds and
+Persons (Cambridge: Cambridge University Press, 2003) 107–22.
+16
+For the contrast see E. Ullman-Margalit and S. Morgenbesser, ‘Picking and Choosing’ Social
+Research 44 (1977) 757-85.
+17
+Hobbes, Collected English Works Vol. V p. 326.
+—5—
+
+has no role at all. But that would be a mistake. To press the analogy: scales need to be true
+if they are to weigh fairly. The point then is not that the scales have no role; it is rather
+that they fail to do anything, they make no discretionary contribution to the output. This is
+the sense in which the inputs determine the output: once we know that the scales are true we
+know how the scales will move simply by knowing the weight of the objects put upon
+them. Things are parallel on the simple Hobbesian model of action. Assuming that the
+agent is well-functioning, their actions will be determined by the force of the inputs,
+understood as their understanding of the utility of the various options. There is no place
+for an independent contribution from an act of choice. There is just the risk of
+malfunction.
+The same is true when we turn to the other main class of compatibilist models and
+add in a more substantial role for deliberation and belief. Such accounts characterize
+freedom as consisting in one’s ability to get one’s actions into line with one’s beliefs about
+what is best.18 So we might invoke a four stage model that characterises a typical exercise
+of freedom of the will unfolding as follows:
+(i)
+
+deliberating:
+considering the options that are available, and their likely consequences; getting clear on one’s own
+desires, and one’s own prior plans and intentions; seeing how the options fit in with these desires
+and plans; establishing pros and cons.
+
+(ii)
+
+judging (deciding that):
+making a judgment that a certain action is best, given the considerations raised in the process of
+deliberation. The upshot of the judgment is a belief.
+
+(iii)
+
+choosing (deciding to):
+deciding to do the action that one judged was best. The upshot of this decision is an intention.
+
+(iv)
+
+acting:
+acting on the intention that has been made, which involves both doing that thing, and coordinating
+other actions and intentions around it.
+
+This might look to give a certain place for choice, but it is an unhappy one. What is the
+relation between the second and third stages? On an internalist account the choice is
+constrained by the judgment: the decision to perform an action will amount to no more
+than an echo of the prior decision that. 19 So, if we want to give a more substantial role to
+choice we will be forced into an externalist account, which is just to say that we could fail
+to make the echo. But now it seems that choice has become a liability: to give a substantial
+role to choice is just to say that we retain the possibility of failing to do that which we
+judge best. Once again choice consists just in the possibility of malfunction. Wouldn’t we
+18
+
+Frequently they also require that one’s beliefs be true, or that one have the ability to get true
+beliefs—that one be, in John Martin Fischer’s phrase, responsive to reasons. I don’t think that this
+affects the substance of what I am arguing here.
+19
+I take the terminology, as applied to this issue, from Gary Watson ‘The Work of the Will’ in S.
+Stroud and C. Tappolet (eds.) Weakness of Will and Practical Irrationality (Oxford: Oxford University
+Press, 2003) pp. 172–200, at pp. 177 ff.
+—6—
+
+be better off if we moved directly from judgements to intentions, cutting out choice
+altogether? Whilst the choice can be squeezed into the picture, it is hard to see how it can
+be given any rationale. Let us explore some possibilities.
+THREE UNSUCCESSFUL RATIONALES
+
+(i) Choice as a test
+There is a well-established Christian line of thought that sees choice as a test: God gives us
+choice so that in failing to err we can pass. Even in a Christian framework there are
+problems with the argument. In a secular context I can see no way of developing it.
+(ii) The rationale for choice derived from the rationale for intentions
+Many authors have pointed out that we do much better with intentions than with just
+beliefs and desires. Forming intentions enables us to curtail overlong deliberation, to
+coordinate, to resist temptation.20 Then, since the upshot of a choice is the formation of
+an intention, we might try to argue backwards. There is a rationale for intention that is
+inherited by choice. The problem with the argument is that choice is not the only way of
+forming intentions. It is easy to imagine an agent whose intentions are determined directly
+by their judgements about what is best, cutting out any need for choice. We need to turn
+to another advantage which intentions have been claimed to bring.
+(iii) Choice as resolving indifference and incommensurability
+The further advantage is that of breaking deadlock in cases of indifference or
+indeterminacy. Midway between two equal piles of hay the ass has no belief that one is
+better: he judges both the same. If his actions followed only from his judgements, he
+would not move. His more conscientious sister meanwhile is torn between the need to care
+for her aged father, and the need to help her asinine tribe in its struggle with the elephants.
+Unlike her brother, she does not judge the two options equally good; she does not know
+how to rank them at all. But like her brother, if she were moved only by her judgments, she
+too would not move.
+These two situations—indifference and incommensurability—show a real advantage
+that accrues to an agent who can choose without a prior judgment of what is best. So does
+this give us a rational for choice? It points us in the right direction, but we are not quite
+there. We confront indifference daily: a trip to the supermarket with its stacks of identical
+tins provides many instances. Yet we hardly think of this as a paradigm of choice. It is
+more like random picking than like choosing. In contrast, incommensurability brings us
+situations where we certainly choose. It is a contentious phenomenon though on which to
+build a theory; many have doubted that it exists. We need a somewhat different approach.
+20
+
+On the first two see Bratman, Intention, Plans and Practical Reasoning (Cambridge: Harvard
+University Press, 1987); on the third, R. Holton ‘Intention and Weakness of Will’ Journal of
+Philosophy
+—7—
+
+CHOICE AS ENABLING ACTION IN THE ABSENCE OF JUDGEMENT
+
+Let us think more carefully about the supposed cases of incommensurability. How often
+have you really been sure that two options are incommensurable? I don’t recall it ever
+happening. Rather, I have known cases where I have been unable to compare, whilst at the
+same time lacking conviction that there is no comparison to be made. That is a good part
+of what makes such situations so troubling: one is constantly looking for the argument
+that will give one a handle on how to compare. I do not deny that there may be some truly
+incommensurable options; it is just hard to think that one could ever be in a position to
+know that one had found one.21
+This is to make incommensurability into a problem that is primarily epistemic: we do
+not know how to compare. Once we think that way we can see that a similar phenomenon
+is at the heart of choice. We choose, I have claimed, when the question of what to do has
+arisen. That question has in turn arisen because we don’t yet know what to do.22 When we
+think about what to do, we may come up with a judgement that one option is best. But we
+may well not. We may instead come up with a judgement that certain options are equally
+good. More likely we will see various reasons in favour of one option, and others in
+favour of another, without arriving at a judgment of which is best. This may be because we
+have no idea how, in principle, to go about ranking (incommensurability); or because we
+know how to do it in principle but can’t in practice; or because whilst we know how to do,
+we don’t think any benefits that might be gained are worth the effort. Maximizing, as
+choice theorists have been telling us for a long time, is a difficult, cognitively expensive
+business. Coming to a judgement about what is best is a form of maximizing.
+I suggest then that in very many cases we choose what to do without ever having made
+a judgement about what would be best—we decide to without deciding that. Now though
+we are back to our second problem: for if there is no judgment that one option is better
+than another, how can choosing ever be any more than arbitrary picking?
+The answer lies in the fact that we can be good at doing something without making
+any judgments. The psychology literature is full of examples; particularly striking is an
+experiment by Lewicki, Hill and Bizot.23 Subjects were asked to play a rather basic
+computer game: the screen was divided into four, a cross would appear in one of the
+21
+
+Even where we think we have an argument for incommensurability we should be cautious. The
+notion dates to Pythagorean mathematics, and the supposed finding that the diagonal of a square
+was not commensurable with its side. The Pythagoreans were right that they cannot both be
+assigned rational numbers. But they can be compared as elements of the reals.
+22
+Which is no to say that when it doesn’t arise we do know what to do.
+23
+P. Lewicki, T. Hill, and E Bizot, ‘Acquisition of Procedural Knowledge About a Pattern of
+Stimuli that Cannot Be Articulated’, Cognitive Psychology 20 (1988) 24–37. I learned of this
+experiment, together with several other that I cite in this paper, from Timothy Wilson’s excellent
+book Strangers to Ourselves: Discovering the Adaptive Unconscious (Cambridge: Harvard University Press,
+2002).
+—8—
+
+quadrants, and their job was to press the button that corresponded to that quadrant. As
+time went on they got much quicker at responding. Why was this? We might speculate
+that they were getting more skilful, reacting more quickly. The real answer was far more
+interesting. The location of each of a sequence of crosses was determined by a fairly
+complicated algorithm. The subjects had, quite unconsciously, learned to use this
+algorithm to predict where the next cross would appear. Change the algorithm, as the
+experimenters did, and their newly acquired skills evaporated, much to the subjects’
+bemusement.
+The players in the quadrant game don’t make choices about which button to press;
+they are reacting faster than their conscious processes can track. In other cases though
+there is a choice, but still with no realization of why it is being made. Consider a case
+reported by Gary Klein:
+It is a simple house fire in a one-storey house in a residential neighborhood. The fire is in the back,
+in the kitchen area. The lieutenant leads his hose crew into the building, to the back, to spray water
+on the fire, but the fire just roars back at them. “Odd,” he thinks. The water should have more of
+an impact. They try dousing it again, and get the same results. They retreat a few steps to regroup.
+Then the lieutenant starts to feel as if something is not right. He doesn’t have any clues; he just
+doesn’t feel right about being in that house, so he orders his men out of the building—a perfectly
+standard building with nothing out of the ordinary. As soon as his men leave the building, the floor
+where they had been standing collapses. Had they still been inside, they would have been plunged
+into the fire below.24
+
+It turned out that the source of the fire was in a basement. The lieutenant had picked up
+on various indicators of this: the great heat of the fire, the lack of noise relative to this
+heat. But he didn’t realize that he had. He put his action down to ESP. It was only when
+Klein’s team analyzed the factors many years later that he came to see why he had chosen
+to act as he had.
+I suggest that cases like this are very common, whether we have to act quickly, as in
+this case, or we have plenty of time for reflection. Very often when we make a choice, and
+can see no compelling reason why we should act one way rather than another, our choice
+will turn out to be effectively random.25 But very often it will respond to features that we
+have registered but of which we are unaware. It will not be random picking, though we
+shall be in no position to know that it is not.
+It might be objected that these are cases in which we do make a judgment about what
+it best, but this is an unconscious judgment, influenced by unconscious beliefs. To this I
+have two replies. First, I doubt that the unconscious states that influence our choice should
+be classed as beliefs at all. They are too modular, too unavailable to our other thought
+
+24
+
+Sources of Power, p. 32.
+‘Effectively’ in that it may be controlled by some non-random mechanism that should have no
+bearing on the choice, as in the case of right-bias discussed below.
+25
+
+—9—
+
+processes to count as beliefs.26 And I doubt even more that they give rise to unconscious
+judgments of what is best, since to judge something best is exactly to rank it as better than
+the other options: exactly what modularity prevents one from doing. The lieutenant would
+not have chosen differently if someone had told him he that his hearing had become
+impaired, because he didn’t realize that the lack of noise from such a hot fire was
+determining his choice.
+These claims about modularity are controversial. My second response does not trade
+on them. Even if it is true that there are unconscious judgments in place, that does not
+undermine my main point. I am arguing that choosing in the absence of judgement is not
+essentially random; but I am happy to qualify that to the claim that choosing in the
+absence of conscious judgment is not essentially random. We are looking at the experience of
+choice; and choice is a conscious process. So what is of interest is choice in the absence of
+conscious judgment; and that need not be random.
+JUDGEMENT AS SUBSEQUENT (OR AT LEAST, NOT PRIOR) TO CHOICE
+
+‘Still’, a critic might object, ‘it would be foolish to deny that there are judgments around:
+the lieutenant surely judges that he should get his crew out’. It would indeed be foolish to
+deny it, so I shan’t. What I say instead is that the judgment follows from the choice. Or at
+least, that is the strong version of my claim. I shall qualify it later.
+Consider the discussion of right-bias in Nisbett and Wilson’s seminal article on selfknowledge. Their exact wording is revealing. Under the heading ‘Erroneous Reports
+about Position Effects on Appraisal and Choice’ they write:
+[P]assersby were invited to evaluate articles of clothing—four different nightgowns in
+one study (378 subjects) and four identical pairs of nylon stockings in the other (52
+subjects). Subjects were asked to say which article of clothing was the best quality and,
+when they announced a choice, were asked why they had chosen the article they had.
+There was a pronounced left-to-right position effect, such that the right-most object in
+the array was heavily over-chosen. For the stockings, the effect was quite large, with the
+right-most stockings being preferred over the left-most by a factor almost four to one.
+When asked about the reasons for their choices, no subject ever mentioned spontaneously
+the position of the article in the array.27
+
+Are we talking here about judgments (‘appraisals’, ‘evaluations’), or about choices—the
+choice of a particular pair of stockings? Nisbett and Wilson’s prose moves, quite naturally,
+between the two. Did the subjects have a brute tendency to judge the right-most best? Or
+did they rather have a brute tendency to choose the right-most, and they then inferred that
+26
+
+More precisely they are, in Fodor’s terminology, informationally encapsulated (knowledge from
+outside can’t get in) and cognitively impenetrable (not under the control of central processes). J.
+Fodor, Modularity of Mind (Cambridge: MIT Press, 1983)
+27
+R. Nisbett ad T. Wilson, ‘Telling More than We Can Know: Verbal Reports on Mental
+Processes’, Psychological Review 84 (1977) 231–259, at pp. 243–4.
+— 10 —
+
+it must be best on the basis of their choice? The latter explanation is surely more plausible.
+The subjects behaved like shoppers faced with a choice of what to buy. As Nisbett and
+Wilson conclude ‘It is possible that subjects carried into the judgement task the
+consumer’s habit of “shopping around,” holding off on choice of early-seen garments on
+the left in favor of later-seen garments on the right’. Then, having made that choice, they
+inferred that it must have been for a reason, and so judged what they had chosen to be the
+best.
+It is easy to think that such judgements are just rationalizations; that is clearly the so in
+this case, and it is the approach that has dominated cognitive dissonance theory.
+Alternatively it might be held that they provide a path to knowledge. Certainly it has long
+been recognized that they may provide a path to self-knowledge: agents can come to
+discover something about their attitudes and emotions as a result of looking at their own
+choices.28 But I am arguing for something stronger: if the competences described above are
+characteristic, agents can also come to know something about the world from looking at
+their choices, and so form, rather than just discover, their judgments on that basis.29
+I said that I would sketch the position starkly and then retreat a little. So now the
+retreat.30 I have spoken as if we make a sudden transition from having no intention to
+having the intention fully formed. Often, perhaps normally, things are not like that. We
+contemplate an intention, try it on, see what it feels like. At the beginning of the week it is
+a fanciful idea, by the end a firm resolve; but we can see no point at which a decisive shift
+was made. In tandem, we see a change in our judgment of what is best: intention and
+judgment interact, each reinforcing the other. At other times it is exactly the impossibility
+of making the corresponding judgement that kills the nascent intention.
+The formation of an intention involves a host of complex interactions. Not just
+between intention and judgment, but also between conscious states and the unconscious
+reactions and abilities that I spoke of before. A growing intention provokes an emotional
+response, which modifies the intention, which triggers a unconscious pattern recognition,
+and so on.31 Forming an intention can sometimes seem more like a rolling ball finding its
+28
+
+See Daryl Bem, ‘Self-Perception Theory’ Advances in Experimental Social Psychology 6 (1972) 1–62.
+Note that this isn’t a modern day behaviorism: although the stress is on publicly observable
+behaviour, there is no hostility to mental states and acts. On Bem’s view one can gain selfknowledge by looking at one’s choices even if one hasn’t yet done anything.
+29
+There are empirical reasons for taking this kind of approach for desires too. As Shafir and
+Tversky put it, ‘the experimental evidence suggests that preferences are actually constructed, not
+merely revealed, in the elicitation [i.e. decision] process, and that these constructions depend on the
+framing of the problem, the method of elicitation, and the available set of options’: see ‘Decision
+Making’ in D. Osherson and E. Smith (eds.) Thinking: An Introduction to Cognitive Science (Cambridge
+MA: MIT Press, 1990) pp. 77–99, at p. 97. Frankfurt also advocates the idea that desires frequently
+follow from reasons; see his ‘Reply to Scanlon’, Contours of Agency p. 185.
+30
+Thanks to Ken Winkler for pointing out the need to make it.
+31
+On the importance of emotional responses in choice see A. Damasio Descartes’ Error (New York:
+Putnam, 1994). Damasio discusses a patient, Elliot, who, as a result of damage to his ventromedial
+region, is unable to make choices. After laying out a set of options, Elliot remarks ‘And after all
+this, I still wouldn’t know what to do’ (p. 49). What is unclear from Damasio’s discussion is
+— 11 —
+
+equilibrium settling point, than like the tripping of a switch. None of this undermines my
+main contention. The point is not to establish that judgment is subsequent to choice. It is
+rather to establish that, in many cases, it is not prior to it.
+
+CONSEQUENCES FOR AN ACCOUNT OF FREE WILL
+
+Return to the four stage model that I introduced earlier: the model that involves
+deliberation, judgment, choice and action. My argument has been that we are frequently in
+no position to take the second of those steps: we are typically unable to form a judgment
+about what is best, not because we come to a judgment that no one thing is best, but
+because we come to no judgement. If that is right, then we must be able to move directly
+from deliberation to choice. So the model is flawed as a general account.
+Do we have the capacity to choose without judgment only in those cases in which we
+cannot make a judgment? No. We could imagine that beings like that: being who, once
+they formed a judgment that a certain option was best were compelled to act on that
+judgment, even though they could make choices in the absence of such a judgement. But
+we are not like that. The faculty of choice that I have argued in essential in the absence of
+judgment is also available to us in the presence of judgment. That is why akrasia is possible;
+though, given our tendency to form our judgments in the light of our choices, I suspect it
+is rarer than philosophers tend to think.32 To this extend then, we might think of our
+unrestricted choice as a liability. However, even here though things are far from clear.
+Sometimes our choice to act akratically might be governed by the same unconscious
+registration of reasons that can occur when we act without judgment. So sometimes we
+may do better33 It is a difficult empirical question whether, overall, our capacity for akratic
+action is a liability or not.
+Further, we can exercise choice in circumstances in which we would normally act
+without choice. Once we focus on habitual or unthinking actions we can raise the question
+of whether to do them; a question that we do not normally ask. And once we have asked
+that question, choice is available. In sum then, the model I am proposing is a messy one.
+Sometimes we form a judgment first and then choose. Sometimes we choose and then
+form a judgment. Sometimes we do both together. And sometimes we act without choice
+at all. And we should not prejudge, of any action, into which class it is going to fall.
+I claimed at the outset that our experience of choice imbued it with three
+characteristics: it is an act, one that is undetermined by our beliefs and desires, and one
+that has effect on our actions. The account I have outlined indicates that our experience is
+whether Elliot is unable to make judgments ranking options, or unable to choose one on the basis
+of a ranking. On the account I am suggesting the unclarity is unsurprising, since the two come
+together.
+32
+For discussion see R. Holton, ‘Rational Resolve’, Philosophical Review, forthcoming.
+33
+A point that Nomy Arpaly has made well; see ‘On Acting Rationally Against One’s Best
+Judgment’, Ethics 110 (2000) 488-513.
+— 12 —
+
+right on all three. Choice is a real process. It is necessitated by our ignorance: our inability
+to form judgments about what is best. But it is not an illusion that is engendered by our
+ignorance.34
+I suggest that choice is an important factor in our experience of free will. When we
+focus on an action, we inevitably raise the question of what to do: of whether to perform
+it, or some other action. That is what happens when we focus on our experience of free
+will with respect to some action. So whilst it is surely wrong to think that only chosen
+actions are free, it is understandable that choice will loom large in any discussion of free
+will.35 Equally understandable is how the knowledge that our experience gives us could be
+mistaken for knowledge of a grander metaphysical claim. Our experience tells us that our
+choice is not determined by our beliefs and desires, or by any other psychological states—
+intentions, emotions etc.—to which we have access. Those could be the same, and yet we
+could choose differently. From there it is easy to move to the thought that we could be
+just the same in our entirety, and yet we could choose differently: that the world is
+indeterministic. That I think is one of the pressures towards libertarianism. It is not the
+only one: others, needing different responses, come from considerations of moral
+responsibility. But it is, I think, the most immediate. I hope I have gone a fair way to
+blocking it.
+
+34
+
+It is perhaps also true that if we knew what we were going to do—if we had the Book of Life—we
+would not experience choice as we experience it now; in that sense too it requires our ignorance.
+But if we knew what we were going to do our phenomenology would be very different altogether.
+35
+Aristotle held that there was something specially revelatory about the choices we make: ‘decision
+seems to be something highly germane to excellence, and to indicate the differences between
+people’s characters more than actions do.’ NE 1111b5. As far as I can see he says nothing in defence
+of this view though; I am not sure what to think about it.
+— 13 —
+
+

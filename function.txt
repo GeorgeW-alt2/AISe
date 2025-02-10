@@ -1,0 +1,5 @@
+mind
+soul
+body
+emotion
+self

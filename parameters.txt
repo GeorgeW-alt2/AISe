@@ -1,0 +1,5 @@
+logic
+reason
+thought
+lesson
+puzzle
